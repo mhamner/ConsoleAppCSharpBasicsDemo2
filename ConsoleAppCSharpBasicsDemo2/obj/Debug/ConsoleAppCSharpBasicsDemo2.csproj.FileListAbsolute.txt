@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpBasicsDemo2\ConsoleAppCSharpBasicsDemo2\bin\Debug\ConsoleAppCSharpBasicsDemo2.exe.config
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpBasicsDemo2\ConsoleAppCSharpBasicsDemo2\bin\Debug\ConsoleAppCSharpBasicsDemo2.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpBasicsDemo2\ConsoleAppCSharpBasicsDemo2\bin\Debug\ConsoleAppCSharpBasicsDemo2.pdb
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpBasicsDemo2\ConsoleAppCSharpBasicsDemo2\obj\Debug\ConsoleAppCSharpBasicsDemo2.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpBasicsDemo2\ConsoleAppCSharpBasicsDemo2\obj\Debug\ConsoleAppCSharpBasicsDemo2.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpBasicsDemo2\ConsoleAppCSharpBasicsDemo2\obj\Debug\ConsoleAppCSharpBasicsDemo2.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpBasicsDemo2\ConsoleAppCSharpBasicsDemo2\obj\Debug\ConsoleAppCSharpBasicsDemo2.pdb
